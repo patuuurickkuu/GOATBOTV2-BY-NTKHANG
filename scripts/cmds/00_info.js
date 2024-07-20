@@ -15,7 +15,7 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const botName = "Angelica";
+		const botName = "Angelica Bot";
 		const botPrefix = "×";
 		const authorName = "Kenzo Hirosji";
 		const ownAge = "18";
