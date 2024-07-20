@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100079110728389",
+    "100072403222845",
     "",
     "",
     "",
@@ -28,12 +28,12 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Kenzo Hiroshi",
+  "OWNER": "Pat",
   "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "Angelica",
-  "FACEBOOK": "https://www.facebook.com/kenzoshin2006",
-  "prefix": "×",
+  "nickNameBot": "Great Sage",
+  "FACEBOOK": "",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
