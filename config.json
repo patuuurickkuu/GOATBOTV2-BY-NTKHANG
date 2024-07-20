@@ -32,7 +32,7 @@
   "AGE": "18",
   "GENDER": "MALE",
   "nickNameBot": "Hitoshi",
-  "OWNER": "https://www.facebook.com/kenzoshin2006",
+  "FACEBOOK": "https://www.facebook.com/kenzoshin2006",
   "prefix": "×",
   "database": {
     "type": "sqlite",
