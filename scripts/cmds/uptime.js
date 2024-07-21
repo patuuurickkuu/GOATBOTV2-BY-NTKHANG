@@ -71,7 +71,7 @@ async function onStart({ api, event }) {
 
 	const timeStart = Date.now();
 	const uptimeMessage = getUptime(uptimeSeconds);
-	const uid = "100065005240232";
+	const uid = "61553848019517";
 	const returnResult = `BOT has been working for ${uptimeMessage}\n\n❖ Cpu usage: ${usage.cpu.toFixed(1)}%\n❖ RAM usage: ${byte2mb(usage.memory)}\n❖ Cores: ${os.cpus().length}\n❖ Ping: ${Date.now() - timeStart}ms\n❖ Operating System Platform: ${osInfo.platform}\n❖ System CPU Architecture: ${osInfo.architecture}`;
 
 	await saveStartTimestamp(startTime);
