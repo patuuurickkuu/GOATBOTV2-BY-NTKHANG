@@ -17,10 +17,10 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ownerInfo = {
-				name: 'Kenzo Hiroshi',
+				name: 'Pat',
 				gender: 'Male',
 				hobby: 'Code everyday',
-				Fb: 'https://www.facebook.com/kenzoshin2006',
+				Fb: 'eyy ka muna eyy',
 				Relationship: 'with my cat',
 				bio: 'Disconect me to the world of technolygy and i will guide you to improve your coding skills'
 			};
