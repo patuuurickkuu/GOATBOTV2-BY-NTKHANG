@@ -44,7 +44,7 @@ module.exports = {
     if (userWins) {
       await usersData.set(senderID, {
         ...userData,
-        money: userData.money + (amount * 1)
+        money: userData.money + (amount * 2)
       });
       return message.reply(`Congratulations! You won ${amount} money! 🎉`);
     } else {
